@@ -26,7 +26,7 @@ class Strings {
   static const String termOfUse = 'Term of use';
   static const String privacyPolicy = 'Privacy Policy';
   static const String applicationVersion = '1.0.0';
-    static const String companyName = Config.company;
+  static const String companyName = Config.company;
   static const String appName = Config.appName ;
   static const String mailContact = Config.mailContact;
   //MainPage

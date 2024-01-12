@@ -2,11 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:openvpn/presentations/route/app_router.dart';
-import 'package:openvpn/presentations/shareperf/sharedpreferences.dart';
 import 'package:openvpn/resources/colors.dart';
 import 'package:openvpn/resources/fonts.gen.dart';
 import 'package:openvpn/utils/config.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 class RootPage extends StatefulWidget {
   RootPage({super.key});
